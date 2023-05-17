@@ -1,33 +1,35 @@
-Mr. Grader: Your Personalized AI Assistant for Grading Essays!
-Unlock the potential of GPT-4 with Mr. Grader, a customizable grading assistant that provides personalized grading experiences tailored to diverse needs and preferences.
+# Mr. Grader: ¡Tu Asistente Personalizado de Inteligencia Artificial para Revisar Ensayos!
+Descubre el potencial de GPT-4 con el Mr. Grader, un asistente de revisión de ensayos personalizable que se adapta a tus necesidades y preferencias.
 
-Why Mr. Grader?
-Mr. Grader allows you to:
+## ¿Por qué Mr. Grader?
+Mr. Grader es una herramienta para profesores y profesoras. Te permite:
 
-Adjust the rigor of grading to match your evaluation needs
-Customize your feedback style
-Enable or disable emoticons in student feedback
-Maintain high expectations for students
-Provide at least two strengths and two areas for improvement in student feedback
-Requirements and Compatibility
-Recommended
+- Ajustar el rigor de la revisión para satisfacer tus necesidades de evaluación.
+- Personalizar tu estilo de retroalimentación.
+- Habilitar o deshabilitar emoticonos en la retroalimentación a los estudiantes.
+- Mantener altas expectativas para los estudiantes.
+- Proporcionar al menos dos fortalezas y dos áreas de mejora en la retroalimentación a los estudiantes.
 
-ChatGPT Plus Subscription with GPT-4 or above models.
-Not Recommended
-Default and Legacy GPT-3.5
-GPT-4 API (It will be costly)
-*Note: The compatibility with plugins for this tool is currently unknown.
+## Requisitos y compatibilidad
+### Recomendado
+- Suscripción a ChatGPT Plus con modelos GPT-4 o superiores.
 
-Quick Start Guide
-Visit ChatGPT
-Select the GPT-4 (or above) model
-Copy and paste the contents of Mr_Grader.json into ChatGPT
-Let Mr. Grader guide you through the configuration process
-Start grading!
-Grading Assistant Personalization Options
-This section outlines the various configuration options available to instructors using the Grading Assistant. These options can be modified to customize the grading experience.
+### No recomendado
+- GPT-3.5 predeterminado y heredado.
+- API de GPT-4 (será caro)
 
-Configuration	Options
-Style	1. Informal: Friendly and informal language in Latin American Spanish<br>2. Formal: Friendly and formal language in Latin American Spanish
-Rigor	1. Strict: Critic-oriented grading, meticulously following the rubric, and marking even minor deviations from established criteria.<br>2. Balanced: Fair and balanced evaluation of work, with equal emphasis on strengths and weaknesses. The rubric is followed accurately, awarding points when criteria are met and marking areas needing improvement.<br>3. Lenient: Grading tends to be more generous. Emphasis on positive aspects of the essay, more lenient towards mistakes or deviations from the rubric.
-Use Emoticons	True/False
+## Guía de inicio rápido
+1. Visita ChatGPT.
+2. Selecciona el modelo GPT-4 (o superior).
+3. Copia y pega el contenido de Mr_Grader.json en ChatGPT.
+4. Deja que el Sr. Grader te guíe a través del proceso de configuración.
+5. ¡Comienza a revisar!
+
+## Opciones de personalización del asistente de revisión
+Esta sección describe las diversas opciones de configuración disponibles para los docentes que utilizan el Asistente de revisión:
+
+| Configuración | Opciones |
+| --- | --- |
+| Estilo | 1. Informal: Lenguaje cercano e informal en español latinoamericano.<br>2. Formal: Lenguaje cercano y formal en español latinoamericano. |
+| Rigor | 1. Estricto: Este nivel se inclina hacia la crítica. Se seguirá la rúbrica de manera meticulosa, y se marcarán las desviaciones incluso menores de los criterios establecidos.<br>2. Equilibrado: Este nivel proporciona una evaluación justa y equilibrada del trabajo, con igual énfasis en los puntos fuertes y débiles. Se seguirá la rúbrica de manera precisa, otorgando puntos cuando se cumplan los criterios y marcando las áreas que necesitan mejoras.<br>3. Indulgente: En este nivel, la calificación tiende a ser más generosa. Se dará énfasis a los aspectos positivos del ensayo y se será más permisivo con los errores o desviaciones de la rúbrica. |
+| Uso de Emoticonos | Verdadero/Falso |
