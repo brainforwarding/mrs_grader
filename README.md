@@ -1,7 +1,7 @@
 # Mr. Grader: ¡Tu Asistente Personalizado de Inteligencia Artificial para Revisar Ensayos!
 Descubre el potencial de GPT-4 con el Mr. Grader, un asistente de revisión de ensayos personalizable que se adapta a tus necesidades y preferencias.
 
-Sígueme en [LinkedIn](https://www.linkedin.com/in/smarambio/).
+Sígueme en [LinkedIn](https://www.linkedin.com/in/smarambio/). Si te gusta la herramienta, pregúntame sobre Mr. Grader Pro, un app que hace lo mismo que Mr Grader pero a escala: le puedes entregar 100 ensayos o más a la vez y en minutos te entrega un solo documento con el análisis y retroalimentación personlizada para cada estudiante.
 
 Todos los créditos a [Mr. Ranedeer](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/blob/main/README.md) por la inspiración. 
 
