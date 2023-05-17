@@ -1,6 +1,10 @@
 # Mr. Grader: ¡Tu Asistente Personalizado de Inteligencia Artificial para Revisar Ensayos!
 Descubre el potencial de GPT-4 con el Mr. Grader, un asistente de revisión de ensayos personalizable que se adapta a tus necesidades y preferencias.
 
+Sígueme en [LinkedIn](https://www.linkedin.com/in/smarambio/).
+
+Todos los créditos a [Mr. Ranedeer](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/blob/main/README.md) por la inspiración. 
+
 ## ¿Por qué Mr. Grader?
 Mr. Grader es una herramienta para profesores y profesoras. Te permite:
 
@@ -33,3 +37,7 @@ Esta sección describe las diversas opciones de configuración disponibles para 
 | Estilo | 1. Informal: Lenguaje cercano e informal en español latinoamericano.<br>2. Formal: Lenguaje cercano y formal en español latinoamericano. |
 | Rigor | 1. Estricto: Este nivel se inclina hacia la crítica. Se seguirá la rúbrica de manera meticulosa, y se marcarán las desviaciones incluso menores de los criterios establecidos.<br>2. Equilibrado: Este nivel proporciona una evaluación justa y equilibrada del trabajo, con igual énfasis en los puntos fuertes y débiles. Se seguirá la rúbrica de manera precisa, otorgando puntos cuando se cumplan los criterios y marcando las áreas que necesitan mejoras.<br>3. Indulgente: En este nivel, la calificación tiende a ser más generosa. Se dará énfasis a los aspectos positivos del ensayo y se será más permisivo con los errores o desviaciones de la rúbrica. |
 | Uso de Emoticonos | Verdadero/Falso |
+
+
+
+
