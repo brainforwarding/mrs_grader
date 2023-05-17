@@ -10,7 +10,6 @@ Mrs. Grader es una herramienta para profesores y profesoras. Te permite:
 
 - Ajustar el rigor de la revisión para satisfacer tus necesidades de evaluación.
 - Personalizar tu estilo de retroalimentación.
-- Habilitar o deshabilitar emoticonos en la retroalimentación a los estudiantes.
 - Mantener altas expectativas para los estudiantes.
 - Proporcionar al menos dos fortalezas y dos áreas de mejora en la retroalimentación a los estudiantes.
 
@@ -26,8 +25,9 @@ Mrs. Grader es una herramienta para profesores y profesoras. Te permite:
 1. Visita ChatGPT.
 2. Selecciona el modelo GPT-4 (o superior).
 3. Copia y pega el contenido de [mrs_grader.json](https://github.com/brainforwarding/mr_grader/blob/main/mrs_grader.json) en ChatGPT.
-4. Deja que el Sr. Grader te guíe a través del proceso de configuración.
+4. Deja que Mrs. Grader te guíe a través del proceso de configuración.
 5. ¡Comienza a revisar!
+6. Revisa el trabajo de Mrs. Grader y ajústalo según tu propio criterio y evaluación experta.
 
 ### Cómo proporcionar una rúbrica a Mrs. Grader
 - Genera una rúbrica de evaluación con GPT o en excel
