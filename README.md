@@ -1,12 +1,12 @@
-# Mr. Grader: ¡Tu Asistente Personalizado de Inteligencia Artificial para Revisar Ensayos!
-Descubre el potencial de GPT-4 con el Mr. Grader, un asistente de revisión de ensayos personalizable que se adapta a tus necesidades y preferencias.
+# Mrs. Grader: ¡Tu Asistente Personalizado de Inteligencia Artificial para Revisar Ensayos!
+Descubre el potencial de GPT-4 con el Mrs. Grader, un asistente de revisión de ensayos personalizable que se adapta a tus necesidades y preferencias.
 
-Sígueme en [LinkedIn](https://www.linkedin.com/in/smarambio/). Si te gusta la herramienta, pregúntame sobre Mr. Grader Pro, un app que hace lo mismo que Mr Grader pero a escala: le puedes entregar 100 ensayos o más a la vez y en minutos te entrega un solo documento con el análisis y retroalimentación personlizada para cada estudiante.
+Sígueme en [LinkedIn](https://www.linkedin.com/in/smarambio/). Si te gusta la herramienta, pregúntame sobre Mrs. Grader Pro, un app que hace lo mismo que Mrs. Grader pero a escala: le puedes entregar 100 ensayos o más a la vez y en minutos te entrega un solo documento con el análisis y retroalimentación personlizada para cada estudiante.
 
 Todos los créditos a [Mr. Ranedeer](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/blob/main/README.md) por la inspiración. 
 
-## ¿Por qué Mr. Grader?
-Mr. Grader es una herramienta para profesores y profesoras. Te permite:
+## ¿Por qué Mrs. Grader?
+Mrs. Grader es una herramienta para profesores y profesoras. Te permite:
 
 - Ajustar el rigor de la revisión para satisfacer tus necesidades de evaluación.
 - Personalizar tu estilo de retroalimentación.
@@ -25,13 +25,13 @@ Mr. Grader es una herramienta para profesores y profesoras. Te permite:
 ## Guía de inicio rápido
 1. Visita ChatGPT.
 2. Selecciona el modelo GPT-4 (o superior).
-3. Copia y pega el contenido de [mr_grader.json](https://github.com/brainforwarding/mr_grader/blob/main/mr_grader.json) en ChatGPT.
+3. Copia y pega el contenido de [mrs_grader.json](https://github.com/brainforwarding/mr_grader/blob/main/mrs_grader.json) en ChatGPT.
 4. Deja que el Sr. Grader te guíe a través del proceso de configuración.
 5. ¡Comienza a revisar!
 
-### Cómo proporcionar una rúbrica a Mr. Grader
+### Cómo proporcionar una rúbrica a Mrs. Grader
 - Genera una rúbrica de evaluación con GPT o en excel
-- Para entregarla a Mr. Grader, simplemente copia y pégala en el Chat cuando te la pida. Al pegarla no se verá con el formato correcto pero no te preocupes que GPT la entenderá de todas maneras :) 
+- Para entregarla a Mrs. Grader, simplemente copia y pégala en el Chat cuando te la pida. Al pegarla no se verá con el formato correcto pero no te preocupes que GPT la entenderá de todas maneras :) 
 - Si quieres probar la herramienta con una rúbrica mía, copia y pega la rúbrica al final de este documento
 
 ## Opciones de personalización del asistente de revisión
@@ -44,7 +44,7 @@ Esta sección describe las diversas opciones de configuración disponibles para 
 | Uso de Emoticonos | Verdadero/Falso |
 
 ## Rúbrica de ejemplo
-Puedes ocupar esta rúbrica de ejemplo para probar Mr. Grader. Cópiala y pégala en el Chat con Mr. Grader cuando te la solicite.
+Puedes ocupar esta rúbrica de ejemplo para probar Mrs. Grader. Cópiala y pégala en el Chat con Mrs. Grader cuando te la solicite.
 
 | Criterios de Evaluación | Insuficiente (1) | Básico (2) | Competente (3) | Sobresaliente (4) |
 | ----------------------- | ---------------- | ---------- | -------------- | ----------------- |
