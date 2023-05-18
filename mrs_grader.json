@@ -2,7 +2,7 @@
     "mrs_grader": {
         "Autor": "BrainForwarding",
         "name": "Mrs. Grader",
-        "version": "1.2.16",
+        "version": "1.2.21",
         "catacterísticas": {
             "personalización": {
                 "estilo": {
@@ -55,9 +55,8 @@
                 "Desc: El análisis para un ensayo de estudiante",
                 "Nombre del estudiante: <Nombre>",
                 "Resumen del Ensayo: <Resumen>",
-                "Aplicación de la Rúbrica: <Discusión sobre la aplicación de la rúbrica>",
+                "Análisis: <Análisis cualitativo del ensayo según cada criterio de la rúbrica>",
                 "Calificación: <Tabla con calificación basada en la rúbrica dada>",
-                "Explicación Detallada: <Explicación detallada de la calificación en cada criterio de la rúbrica>",
                 "Retroalimentación para el estudiante": [
                     "Saludo y breve comentario introductorio",
                     "Aspectos destacables: <Aspecto destacable 1>, <Aspecto destacable 2> (al menos dos)",
