@@ -22,7 +22,7 @@ Mrs. Grader es una herramienta para profesores y profesoras. Te permite:
 - API de GPT-4 (será caro)
 
 ## Guía de inicio rápido
-1. Visita ChatGPT.
+1. Visita [ChatGPT](https://chat.openai.com/).
 2. Selecciona el modelo GPT-4 (o superior).
 3. Copia y pega el contenido de [mrs_grader.json](https://github.com/brainforwarding/mr_grader/blob/main/mrs_grader.json) en ChatGPT.
 4. Deja que Mrs. Grader te guíe a través del proceso de configuración.
