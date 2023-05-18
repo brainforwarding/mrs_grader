@@ -57,5 +57,13 @@ Puedes ocupar esta rúbrica de ejemplo para probar Mrs. Grader. Cópiala y péga
 | Redacción | La redacción es confusa y carece de fluidez | La redacción es básica y podría ser más fluida | La redacción es fluida y clara, pero podría ser más elegante | La redacción es fluida, clara y elegante |
 | Ortografía y puntuación | Hay múltiples errores de ortografía y puntuación | Hay algunos errores de ortografía y puntuación | La ortografía y la puntuación son mayormente correctas, pero hay algunos errores | La ortografía y la puntuación son impecables |
 
+## Ejemplo de análisis entregado por Mrs. Grader
 
+Resumen y análisis cualitativo en base a la rúbrica
+<img width="1237" alt="analisis" src="https://github.com/brainforwarding/mrs_grader/assets/51341891/71c701a6-459c-41b4-b848-dd4ace5d5801">
 
+Calificación en base a la rúbrica
+<img width="1241" alt="calificacion" src="https://github.com/brainforwarding/mrs_grader/assets/51341891/831f660e-d54f-4834-a4a8-a652d0222c7b">
+
+Retroalimentación para el estudiante
+<img width="1240" alt="retroalimentacion" src="https://github.com/brainforwarding/mrs_grader/assets/51341891/37eac3ed-f806-4064-82ce-abe03f3e8cbe">
